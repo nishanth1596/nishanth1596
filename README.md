@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a frontend developer with a deep passion for **React**, **TypeScript**, and clean, scalable UI development. My goal is to build intuitive, responsive web applications that enhance user experiences. I'm always excited to challenge myself with **Frontend Mentor** challenges, contribute meaningful feedback, and collaborate with others in the dev community. 
 
+![My Development Workflow](https://camo.githubusercontent.com/54f508287a5b3fe60c97d0fd86fb26dfc6829a324e4508b13fb40fd72446c95c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d626875766938313933383126)
+
 ## 🛠️ Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
