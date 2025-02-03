@@ -36,7 +36,6 @@ As someone who loves solving complex problems, I'm always open to **learning new
 
 [![Nishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanth1596)](https://github.com/nishanth1596/github-readme-stats)
 
-![My Development Workflow](https://camo.githubusercontent.com/54f508287a5b3fe60c97d0fd86fb26dfc6829a324e4508b13fb40fd72446c95c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d626875766938313933383126)
 
 ## 🤝 Let's Connect!
 
