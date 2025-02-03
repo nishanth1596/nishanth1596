@@ -38,6 +38,23 @@ As someone who loves solving complex problems, I'm always open to **learning new
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishanth1596&theme=radical)
 
+## Open Source Contribution
+React + TypeScript + Tailwind CSS Setup Script
+Role: Co-Creator
+Date: 02-02-2025
+
+I co-created an automation script with Bhuvnesh Upadhyay to set up React + TypeScript + Tailwind CSS projects with a single command. This script streamlines the process of setting up a new project, installing Tailwind CSS, and ensuring an optimized environment for developers.
+
+🚀 Key Features:
+
+Automatically sets up a Vite project with React and TypeScript.
+Installs and configures Tailwind CSS.
+Removes unnecessary files to keep the project clean.
+Pre-configures App.tsx with a Tailwind-styled component.
+🎉 This tool has helped me and many developers speed up their workflow, and it’s available to the community for free on GitHub. Feel free to explore the project and contribute improvements!
+
+🔗 [Link to the project on GitHub](https://github.com/bhuvi819381/Script)
+
 
 ## 🤝 Let's Connect!
 
