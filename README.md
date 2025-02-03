@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Nishanth Venkatesan — A Passionate Frontend Developer
+# 👨‍💻 Hi, I’m Nishanth Venkatesan, a passionate frontend developer on a mission to build clean and scalable web applications using the latest technologies.
 
 Welcome to my GitHub profile! I'm a frontend developer with a deep passion for **React**, **TypeScript**, and clean, scalable UI development. My goal is to build intuitive, responsive web applications that enhance user experiences. I'm always excited to challenge myself with **Frontend Mentor** challenges, contribute meaningful feedback, and collaborate with others in the dev community. 
 
