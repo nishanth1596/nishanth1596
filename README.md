@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a frontend developer with a deep passion for **React**, **TypeScript**, and clean, scalable UI development. My goal is to build intuitive, responsive web applications that enhance user experiences. I'm always excited to challenge myself with **Frontend Mentor** challenges, contribute meaningful feedback, and collaborate with others in the dev community. 
 
-
-
 ## 🛠️ Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
@@ -35,6 +33,8 @@ As someone who loves solving complex problems, I'm always open to **learning new
 ## 📈 GitHub Stats
 
 [![Nishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanth1596)](https://github.com/nishanth1596/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth1596&layout=compact)
 
 
 ## 🤝 Let's Connect!
