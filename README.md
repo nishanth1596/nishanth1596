@@ -2,13 +2,28 @@
 
 Welcome to my GitHub profile! I'm a frontend developer with a deep passion for **React**, **TypeScript**, and clean, scalable UI development. My goal is to build intuitive, responsive web applications that enhance user experiences. I'm always excited to challenge myself with **Frontend Mentor** challenges, contribute meaningful feedback, and collaborate with others in the dev community. 
 
+### 💻 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+
+
 ## 🛠️ Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frontend Frameworks:** React, Tailwind CSS, Bootstrap
-- **Backend:** Supabase (Database, Authentication)
-- **Version Control:** Git, GitHub
-- **Code Quality & Practices:** Test-Driven Development (TDD), Code Reviews, Clean Code
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- **Libraries & Frameworks:** React, Redux Toolkit, React Query, React Router DOM  
+- **Styling:** Tailwind CSS, Styled Components, CSS Modules, Bootstrap  
+- **API Integration:** Axios, RESTful APIs  
+- **Tools & Platforms:** Git, GitHub, VS Code, Supabase  
+- **Best Practices:** Clean Code, Reusable Components, Component Architecture, Git Workflow
 
 ## 🚀 My Development Journey
 
