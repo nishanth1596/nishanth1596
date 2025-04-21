@@ -38,6 +38,13 @@ As someone who loves solving complex problems, I'm always open to **learning new
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishanth1596&theme=radical)
 
+### 🐍 Watch my GitHub contributions come to life
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanth1596/nishanth1596/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishanth1596/nishanth1596/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nishanth1596/nishanth1596/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Open Source Contribution
 - **React + TypeScript + Tailwind CSS Setup Script**
 - **Role: Co-Creator**
