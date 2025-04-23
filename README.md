@@ -51,7 +51,8 @@ As someone who loves solving complex problems, I'm always open to **learning new
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth1596&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishanth1596&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nishanth1596&theme=radical)
+
 
 ### 🐍 Watch my GitHub contributions come to life
 <picture>
