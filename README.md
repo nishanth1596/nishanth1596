@@ -1,4 +1,4 @@
-#👨‍💻 Hi, I’m Nishanth Venkatesan – Frontend Developer | ![Open to Work](https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen?style=for-the-badge)
+#👨‍💻 Hi, I’m Nishanth Venkatesan – Frontend Developer | <img src="https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen?style=for-the-badge" alt="Open to Work" style="vertical-align: middle;" />
 
 
 
