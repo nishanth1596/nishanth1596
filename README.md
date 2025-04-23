@@ -1,7 +1,5 @@
-#👨‍💻 Hi, I’m Nishanth Venkatesan – Frontend Developer | Open to Opportunities
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen?style=for-the-badge" alt="Open to Frontend Roles" />
-</p>
+#👨‍💻 Hi, I’m Nishanth Venkatesan – Frontend Developer | [Open to Work](https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen?style=for-the-badge)
+
 
 
 🚀 3.1+ years of React experience | Building clean, scalable frontend apps with React, TypeScript, Tailwind & Redux.
