@@ -1,4 +1,8 @@
-# 👨‍💻 Hi, I’m Nishanth Venkatesan, a passionate frontend developer on a mission to build clean and scalable web applications using the latest technologies.
+#👨‍💻 Hi, I’m Nishanth Venkatesan – Frontend Developer | Open to Opportunities
+![Open to Work](https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen?style=for-the-badge)
+
+
+🚀 3.1+ years of React experience | Building clean, scalable frontend apps with React, TypeScript, Tailwind & Redux.
 
 Welcome to my GitHub profile! I'm a frontend developer with a deep passion for **React**, **TypeScript**, and clean, scalable UI development. My goal is to build intuitive, responsive web applications that enhance user experiences. I'm always excited to challenge myself with **Frontend Mentor** challenges, contribute meaningful feedback, and collaborate with others in the dev community. 
 
@@ -41,18 +45,19 @@ As someone who loves solving complex problems, I'm always open to **learning new
   
 ## 🔍 What I’m Currently Focused On
 
-- Mastering **React** & **TypeScript** with cutting-edge libraries and patterns.
-- Building full-stack applications with **Supabase** to handle databases and authentication with ease.
+- Mastering **React** & **TypeScript** with Redux Toolkit, React Query, and React Hook Form.
+- Learning **React Testing Library** to write maintainable tests and improve code reliability.
+- Exploring **Node.js + Express + MongoDB** to build and deploy full-stack projects.
 - Contributing to open-source projects and actively seeking opportunities for collaboration and mentorship.
 
 ## 📈 GitHub Stats
 
-[![Nishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanth1596)](https://github.com/nishanth1596/github-readme-stats)
+[![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanth1596&show_icons=true&theme=radical)](https://github.com/nishanth1596/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth1596&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nishanth1596&theme=radical)
-
+<!-- If it fails to load, you can refresh or try again later -->
 
 ### 🐍 Watch my GitHub contributions come to life
 <picture>
@@ -74,7 +79,8 @@ Automatically sets up a Vite project with React and TypeScript.
 Installs and configures Tailwind CSS.
 Removes unnecessary files to keep the project clean.
 Pre-configures App.tsx with a Tailwind-styled component.
-🎉 This tool has helped me and many developers speed up their workflow, and it’s available to the community for free on GitHub. Feel free to explore the project and contribute improvements!
+🎉 This tool is now helping other developers bootstrap projects faster and follow a clean, consistent setup process. I actively maintain and improve it to keep up with the latest in frontend tooling.
+
 
 🔗 [Link to the project on GitHub](https://github.com/bhuvi819381/Script)
 
