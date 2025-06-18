@@ -2,9 +2,11 @@
 
 
 
-🚀 3.1+ years of React experience | Building clean, scalable frontend apps with React, TypeScript, Tailwind & Redux.
+🚀  3.1+ years of React experience | Building clean, scalable frontend apps with React, TypeScript, Tailwind & Redux.
 
-Welcome to my GitHub profile! I'm a frontend developer with a deep passion for **React**, **TypeScript**, and clean, scalable UI development. My goal is to build intuitive, responsive web applications that enhance user experiences. I'm always excited to challenge myself with **Frontend Mentor** challenges, contribute meaningful feedback, and collaborate with others in the dev community. 
+Welcome to my GitHub profile! I'm a frontend developer with a strong focus on React, TypeScript, and building user-first interfaces. I'm passionate about solving real-world problems with code and constantly improving through hands-on projects, challenges, and collaboration.
+
+Lately, I've started diving into backend development to understand what truly happens beyond the UI, learning Node.js, Express, and MongoDB to build complete full-stack applications.
 
 ### 💻 Tech Stack
 
@@ -23,9 +25,10 @@ Welcome to my GitHub profile! I'm a frontend developer with a deep passion for *
 ## 🛠️ Technologies & Tools
 
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- **Libraries & Frameworks:** React, Redux Toolkit, React Query, React Router DOM  
+- **Frontend:** React, Redux Toolkit, React Query, React Router DOM  
 - **Styling:** Tailwind CSS, Styled Components, CSS Modules, Bootstrap  
-- **API Integration:** Axios, RESTful APIs  
+- **Backend (Learning)**: Node.js, Express.js, MongoDB, Mongoose
+- **API Integration:** Axios, RESTful APIs
 - **Tools & Platforms:** Git, GitHub, VS Code, Supabase  
 - **Best Practices:** Clean Code, Reusable Components, Component Architecture, Git Workflow
 
@@ -45,9 +48,10 @@ As someone who loves solving complex problems, I'm always open to **learning new
   
 ## 🔍 What I’m Currently Focused On
 
-- Mastering **React** & **TypeScript** with Redux Toolkit, React Query, and React Hook Form.
-- Learning **React Testing Library** to write maintainable tests and improve code reliability.
-- Exploring **Node.js + Express + MongoDB** to build and deploy full-stack projects.
+- Advancing in Node.js + Express and integrating it with MongoDB via Mongoose.
+- Continuing mastery in React + TypeScript, focusing on testing and scalability.
+- Building small full-stack apps to deepen backend understanding.
+- Writing posts and documenting key concepts to share what I learn.
 - Contributing to open-source projects and actively seeking opportunities for collaboration and mentorship.
 
 ## 📈 GitHub Stats
