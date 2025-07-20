@@ -25,7 +25,7 @@ Lately, I've started diving into backend development to understand what truly ha
 ## 🛠️ Technologies & Tools
 
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- **Frontend:** React, Redux Toolkit, React Query, React Router DOM  
+- **Frontend:** NEXT.Js, React, Redux Toolkit, React Query, React Router DOM  
 - **Styling:** Tailwind CSS, Styled Components, CSS Modules, Bootstrap  
 - **Backend (Learning)**: Node.js, Express.js, MongoDB, Mongoose
 - **API Integration:** Axios, RESTful APIs
