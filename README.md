@@ -1,4 +1,4 @@
-## 👨‍💻 Hi, I’m Nishanth Venkatesan – Frontend Developer ![Open to Work](https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen?style=flat-square)
+## 👨‍💻 Hi, I’m Nishanth Venkatesan – Software Engineer ![Open to Work](https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen?style=flat-square)
 
 
 
@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a frontend developer with a strong focus on React, TypeScript, and building user-first interfaces. I'm passionate about solving real-world problems with code and constantly improving through hands-on projects, challenges, and collaboration.
 
-Lately, I've started diving into backend development to understand what truly happens beyond the UI, learning Node.js, Express, and MongoDB to build complete full-stack applications.
+Lately, I've started diving into backend development to understand what truly happens beyond the UI, learning Node.js, Express, JAVA, DSA and MongoDB to build complete full-stack applications.
 
 ### 💻 Tech Stack
 
