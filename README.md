@@ -1,6 +1,4 @@
-## 👨‍💻 Hi, I’m Nishanth Venkatesan – Software Engineer ![Open to Work](https://img.shields.io/badge/Open%20to-Frontend%20Developer%20roles-brightgreen?style=flat-square)
-
-
+## 👨‍💻 Hi, I’m Nishanth Venkatesan – Software Engineer
 
 🚀  3.1+ years of React experience | Building clean, scalable frontend apps with React, TypeScript, Tailwind & Redux.
 
