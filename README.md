@@ -1,6 +1,6 @@
 ## 👨‍💻 Hi, I’m Nishanth Venkatesan – Software Engineer
 
-🚀  3.1+ years of React experience | Building clean, scalable frontend apps with React, TypeScript, Tailwind & Redux.
+🚀  3.5+ years of React experience | Building clean, scalable frontend apps with React, TypeScript, Tailwind & Redux.
 
 Welcome to my GitHub profile! I'm a frontend developer with a strong focus on React, TypeScript, and building user-first interfaces. I'm passionate about solving real-world problems with code and constantly improving through hands-on projects, challenges, and collaboration.
 
